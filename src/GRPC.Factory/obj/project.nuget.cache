@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "73OP5i6dnRUdXsmmISTN/CjwDEn849/Jjw9EgRsxjwtD5FWZlfxybH3fF8ZuSEjcKGuEezY49J8TSu3GrOarMw==",
+  "success": true,
+  "projectFilePath": "/Users/venemarcos/Projects/grpc/WireupGrpc/src/GRPC.Factory/GRPC.Factory.csproj",
+  "expectedPackageFiles": [
+    "/Users/venemarcos/.nuget/packages/google.protobuf/3.11.4/google.protobuf.3.11.4.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/grpc.core.api/2.27.0/grpc.core.api.2.27.0.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/grpc.net.client/2.27.0/grpc.net.client.2.27.0.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/grpc.net.common/2.27.0/grpc.net.common.2.27.0.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/grpc.tools/2.27.0/grpc.tools.2.27.0.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/Users/venemarcos/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+obj/Debug/netcoreapp3.1/Guitar.cs \
+obj/Debug/netcoreapp3.1/GuitarGrpc.cs: Protos/guitar.proto

@@ -1,0 +1,9 @@
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/obj/Debug/netstandard2.0/Domain.pdb

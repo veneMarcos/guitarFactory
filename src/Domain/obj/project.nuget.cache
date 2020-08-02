@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6T/xa6QGG+ig8q0bINXQPW8IpdmoLcjqaJ/bnxD8AaH4mEQnm8nfL73XwwxrCfJ1bDlqTfp+owEy0pKlPt1GIg==",
+  "success": true,
+  "projectFilePath": "/Users/venemarcos/Projects/grpc/WireupGrpc/src/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/venemarcos/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

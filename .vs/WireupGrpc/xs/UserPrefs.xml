@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{65F056C3-8A5C-45DB-821A-EA1AB5818DA2}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.GRPC.Guitar PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/GRPC.Factory/Program.cs">
+    <Files>
+      <File FileName="src/GRPC.Guitar/Services/GuitarService.cs" Line="16" Column="1" />
+      <File FileName="src/GRPC.Guitar/Protos/guitar.proto" />
+      <File FileName="src/GRPC.Factory/Protos/guitar.proto" />
+      <File FileName="src/GRPC.Factory/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WireupGrpc" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="GRPC.Factory" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+              <Node name="GRPC.Guitar" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.src.GRPC.Factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{65F056C3-8A5C-45DB-821A-EA1AB5818DA2}" ItemName="GRPC.Factory" ConfigurationId="Default" />
+        <StartupItem ItemId="{41955E7C-9F18-4228-8ED6-706D818EADC1}" ItemName="GRPC.Guitar" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

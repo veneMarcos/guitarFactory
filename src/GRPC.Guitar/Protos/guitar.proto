@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option csharp_namespace = "GRPC.Guitar";
+
+package guitar;
+
+// The greeting service definition.
+service Guitar {
+  // Sends a greeting
+  rpc MakeGuitar (GuitarRequest) returns (GuitarReply);
+}
+
+message GuitarRequest {
+  enum Color{
+    Green = 0;
+    Black = 1;
+    Red = 2;
+    Sunburst =3;
+    White = 4;
+  }
+  enum Model {
+    Stratocaster = 0;
+    LesPaul = 1;
+    Telecaster = 2;
+    Acoustic = 3;
+  }
+  Color guitarColor = 1;
+  int32 stringQuantity = 2;
+  Model guitarModel = 3;
+}
+
+message GuitarReply {
+  string guitarID = 1;
+}
