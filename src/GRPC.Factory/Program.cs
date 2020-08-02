@@ -8,9 +8,10 @@ namespace GRPC.Factory
     {
         static async Task Main(string[] args)
         {
-            var guitarChannel = GrpcChannel.ForAddress("https://localhost:5001");
-            var guitarClient = new Guitar.Guitar.GuitarClient(guitarChannel);
+            AppContext.SetSwitch("System.Net.Http.SocketsHttpHandler.Http2UnencryptedSupport", true);
 
+            var guitarChannel = GrpcChannel.ForAddress("http://localhost:5000");
+            var guitarClient = new Guitar.Guitar.GuitarClient(guitarChannel);
 
             while(true)
             {
